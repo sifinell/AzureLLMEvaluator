@@ -76,7 +76,7 @@ You can customize which evaluators to use for your specific needs, depending on 
 
 ## Result Tracking
 
-The evaluation results will be saved in the `output` directory with a timestamped filename. You can track metrics and download the full evaluation report as a JSON file. This allows for easy monitoring of model performance across different evaluation runs.
+The evaluation results will be saved in the `output` directory with a timestamped filename. You can track metrics and download the full evaluation report as a JSON file. This allows for easy monitoring of model performance across different evaluation runs. In the same file you will see a link to look at the results in AI Foundry, this way you can compare results of multiple evaluations.
 
 ## Contributing
 
