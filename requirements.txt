@@ -1,0 +1,3 @@
+azure-ai-evaluation
+azure-ai-evaluation[remote]
+python-dotenv

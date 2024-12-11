@@ -1,0 +1,5 @@
+query,user_instructions,context,response,ground_truth
+What are the operating hours of Store X?,Provide store hours for a location.,Store X operates from 8 AM to 8 PM daily.,Store X operates from 8 AM to 8 PM daily.,Store X operates from 8 AM to 8 PM daily.
+How can I return an item?,Explain the return process for purchases.,Customers can return items within 30 days with a receipt.,Items can be returned within 30 days with a receipt.,Items can be returned within 30 days with a receipt.
+Is there home delivery for groceries?,Confirm if home delivery is available and provide details.,"Yes, home delivery is available for online orders above $50.","Yes, home delivery is available for orders over $50.","Yes, home delivery is available for orders over $50."
+Do you sell vegan products?,Inform about the availability of vegan products.,Store X offers a range of vegan products in multiple categories.,"Yes, we offer a wide range of vegan products.","Yes, we offer a wide range of vegan products."
